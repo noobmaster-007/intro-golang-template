@@ -3,5 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello John!")
+	// Replace "Hello World!" with "Hello <YOUR NAME>!"
+	fmt.Println("Hello World!")
 }
